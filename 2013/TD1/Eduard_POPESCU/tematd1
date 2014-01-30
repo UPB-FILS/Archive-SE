@@ -1,0 +1,30 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package tematd1;
+
+/**
+ *
+ * @author Popescu Eduard 1221F
+ */
+public class Tematd1 {
+ublic class Bonjour extends Thread{
+      public Bonjour(String message) {
+        super(message);     
+           } 
+      
+      public static void main(String[] args) {
+        
+         
+          String s[] = {"george", "robert", "mihai", "ciprian",}; 
+            for(String i:s){    
+            new Bonjour(i).start();
+            }
+      }
+    @Override 
+           public void run() {         
+            System.out.println("Bonjour, "+ getName()+"!"); 
+            n*/
+   }
+}
