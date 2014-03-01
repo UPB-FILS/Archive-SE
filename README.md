@@ -30,4 +30,4 @@ Bonjour Melania Nitu
 
 Hellew Roxana Postelnicu!
 
-Sorina Vlasceanu!
+In sfarsit Sorina Vlasceanu!
