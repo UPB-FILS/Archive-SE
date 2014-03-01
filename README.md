@@ -14,7 +14,7 @@ Bonjour ,Oprisan Filip
 
 =======
 
->>>>>>> 8f216770c59f5be05a51244ce73c9335af623446
+
 
 Bonjour Cosmin NICHIFOR
 
