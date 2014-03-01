@@ -24,7 +24,7 @@ Bonjour! ~ Gabriel ALECU
 
 Aloha , Spoiala Cristian !
 
-Bonjour Ioana calinoiu
+Bonjour IOANA CALINOIU
 
 Bonjour Melania Nitu
 
