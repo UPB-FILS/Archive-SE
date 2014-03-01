@@ -23,3 +23,5 @@ Aloha , Spoiala Cristian !
 Bonjour Ioana calinoiu
 
 Bonjour Melania Nitu
+
+Hellew Roxana Postelnicu!
