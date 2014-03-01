@@ -12,17 +12,13 @@ Bonjour Dragos STOICA
 
 Bonjour ,Oprisan Filip!!
 
-=======
-
-
-
 Bonjour Cosmin NICHIFOR
 
 Bonjour, Iulia Stanica!
 
-Bonjour! ~ Gabriel ALECU
+Bonjour! - Gabriel Alecu
 
-Aloha , Spoiala Cristian !
+Aloha , Cristian Spoiala !
 
 Bonjour Ioana calinoiu
 
