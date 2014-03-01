@@ -15,21 +15,32 @@ Bonjour ,Oprisan Filip!!
 =======
 
 
-
 Bonjour Cosmin NICHIFOR
 
 =======
 
 Bonjour, Iulia Stanica!
 
+=======
+
 Bonjour! ~ Gabriel ALECU
+
+======
 
 Aloha , Spoiala Cristian !
 
-Bonjour IOANA CALINOIU!
+======
 
-Bonjour Melania Nitu
+Bonjour IOANA CALINOIU
+
+======
+
+Bonjour!! Melania Nitu
+
+======
 
 Hellew Roxana Postelnicu!
+
+======
 
 Cucu Andreea Madalina
