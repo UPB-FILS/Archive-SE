@@ -16,3 +16,4 @@ Bonjour Cosmin NICHIFOR
 Bonjour, Iulia Stanica!
 Bonjour! - Gabriel ALECU
 Aloha , Spoiala Cristian !
+Bonjour Ioana calinoiu
