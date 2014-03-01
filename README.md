@@ -29,3 +29,5 @@ Bonjour IOANA CALINOIU
 Bonjour Melania Nitu
 
 Hellew Roxana Postelnicu!
+
+Cucu Bauuuu!!!!
