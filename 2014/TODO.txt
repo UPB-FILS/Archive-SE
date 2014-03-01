@@ -1,7 +1,0 @@
-- FCFS
-- 2.4.1 The Dining Philosophers Problem
-- 2.4.2 The Readers and Writers Problem
-- 2.4.3 The Sleeping Barber Problem
-
-- QT quick example (GUI, Animation)
-
