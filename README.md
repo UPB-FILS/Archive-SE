@@ -29,3 +29,5 @@ Bonjour Ioana calinoiu
 Bonjour Melania Nitu
 
 Hellew Roxana Postelnicu!
+
+Salut, Iulia Alexe
