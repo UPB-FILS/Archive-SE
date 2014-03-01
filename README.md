@@ -11,6 +11,10 @@ Bonjour Dragos STOICA
 =======
 
 Bonjour ,Oprisan Filip
+<<<<<<< 6c77c8c783d2dcbbdc8390da7094ca6ce8ccebc5
+=======
+
+>>>>>>> 8f216770c59f5be05a51244ce73c9335af623446
 
 Bonjour Cosmin NICHIFOR
 
