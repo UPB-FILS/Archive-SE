@@ -15,36 +15,23 @@ Bonjour ,Oprisan Filip!!
 =======
 
 
-Bonjour Cosmin NICHIFOR
 
-=======
+Bonjour Cosmin NICHIFOR
 
 Bonjour, Iulia Stanica!
 
-=======
-
 Bonjour! ~ Gabriel ALECU
-
-======
 
 Aloha , Spoiala Cristian !
 
-======
+Bonjour Ioana calinoiu
 
-Bonjour IOANA CALINOIU
-
-======
-
-Bonjour!! Melania Nitu
-
-======
+Bonjour Melania Nitu
 
 Hellew Roxana Postelnicu!
 
-======
+In sfarsit Sorina Vlasceanu!
 
-Cucu Andreea Madalina
+https://github.com/cosminnichifor/SE_devoir/ - Cucu, Nichifor, Radutu, Stanica.
 
-Salut,Iulia Alexe
-
-Buna dimineata!
+https://github.com/AzuraMeta/TuringMachine - Alecu, Nitu, Spoiala
