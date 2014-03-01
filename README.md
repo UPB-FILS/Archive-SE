@@ -46,3 +46,7 @@ Hellew Roxana Postelnicu!
 Cucu Andreea Madalina
 
 Salut,Iulia Alexe
+
+======
+
+Ce vorbesti???
