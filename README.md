@@ -10,7 +10,7 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 Bonjour Dragos STOICA
 =======
 
-Bonjour ,Oprisan Filip
+Bonjour ,Oprisan Filip!!
 
 =======
 
@@ -18,16 +18,18 @@ Bonjour ,Oprisan Filip
 
 Bonjour Cosmin NICHIFOR
 
+=======
+
 Bonjour, Iulia Stanica!
 
 Bonjour! ~ Gabriel ALECU
 
 Aloha , Spoiala Cristian !
 
-Bonjour Ioana calinoiu
+Bonjour IOANA CALINOIU
 
 Bonjour Melania Nitu
 
 Hellew Roxana Postelnicu!
 
-Salut, Iulia Alexe
+Cucu Andreea Madalina
