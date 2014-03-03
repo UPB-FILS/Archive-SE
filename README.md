@@ -11,13 +11,21 @@ http://interactivepython.org/runestone/static/pythonds/index.html
 01.03.2014
 
 Bonjour ,Oprisan Filip!!
+
 Bonjour Cosmin NICHIFOR
+
 Bonjour, Iulia Stanica!
+
 Bonjour, Gabriel Alecu!
+
 Aloha , Cristian Spoiala !
+
 Bonjour Ioana calinoiu
+
 Bonjour Melania Nitu
+
 Hellew Roxana Postelnicu!
+
 In sfarsit Sorina Vlasceanu!
 
 
