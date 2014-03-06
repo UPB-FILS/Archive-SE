@@ -102,7 +102,7 @@ def main(argv=None):
         #spawn our consumer threads and start consuming
         c = Consumer(in_queue,lock)
         c.daemon = True
-        c.start()
+        c.start() #invoke method run
 
         #attendez que les donnees soit traitees
         in_queue.join()

@@ -1,5 +1,5 @@
 """
-Le premier prgramme en Python
+Le premier programme en Python
 * utilisation des arguments de la lignne de commande
 * les listes et la fonction map
 * les threads
@@ -21,6 +21,7 @@ class Bonjour(threading.Thread):
         print "Bonjour %(personne)s !\n" % \
           {"personne":self.personne}
         logging.info("From %s(thread_name)\n" %{"thread_name":self.getName()})
+		#les messages d'alertes, les erreurs
    
 def utilisation():
     #Affichage mode d'utilisation
