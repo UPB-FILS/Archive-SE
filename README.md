@@ -47,10 +47,10 @@ In sfarsit Sorina Vlasceanu!
 
 ### Liens pour les devoirs
 
-* https://github.com/cosminnichifor/SE_devoir/ - Cucu, Nichifor, Radutu, Stanica.
+* https://github.com/cosminnichifor/SE_devoir - Cucu, Nichifor, Radutu, Stanica.
 
 * https://github.com/AzuraMeta/TuringMachine - Alecu, Nitu, Spoiala
 
-* https://github.com/VlasceanuSorina/SE_Teme.git Alexe,Vlasceanu,Nitulescu 
+* https://github.com/VlasceanuSorina/SE_Teme Alexe,Vlasceanu,Nitulescu 
 
 * https://github.com/roxanapostelnicu/Labirint - Glodeanu, Vladu, Nanu, Postelnicu
