@@ -51,6 +51,6 @@ In sfarsit Sorina Vlasceanu!
 
 * https://github.com/AzuraMeta/TuringMachine - Alecu, Nitu, Spoiala
 
-* https://github.com/VlasceanuSorina/SE_Teme Alexe,Vlasceanu,Nitulescu 
+* https://github.com/VlasceanuSorina/SE_Teme - Alexe,Vlasceanu,Nitulescu 
 
 * https://github.com/roxanapostelnicu/Labirint - Glodeanu, Vladu, Nanu, Postelnicu
