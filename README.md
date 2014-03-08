@@ -6,6 +6,22 @@ Systemes d'Exploitation
 
 http://interactivepython.org/runestone/static/pythonds/index.html
 
+http://www.diveintopython.net/
+
+http://learnpythonthehardway.org/book/
+
+http://swaroopch.com/notes/Python/  --- http://files.swaroopch.com/python/byte_of_python.pdf
+
+http://www.greenteapress.com/thinkpython/
+
+http://inventwithpython.com/
+
+http://www.qtrac.eu/pyqtbook.html
+
+http://www.commandprompt.com/community/pyqt/
+
+
+
 #### Bonjour Dragos STOICA
 
 01.03.2014
