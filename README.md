@@ -32,7 +32,7 @@ Bonjour Cosmin NICHIFOR
 
 Bonjour, Iulia Stanica!
 
-Bonjour, Gabriel Alecu!
+Hello, Gabriel Alecu!
 
 Aloha , Cristian Spoiala !
 
