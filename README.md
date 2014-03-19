@@ -58,3 +58,5 @@ In sfarsit Sorina Vlasceanu!
 * https://github.com/ioanac/Futoshiki - Calinoiu, Oprisan
 
 * https://github.com/isabelap/DEMO-SE.gitn -Ion Alina, Puiu Isabela
+
+https://github.com/ana20/SE-Hidato Cocea Elena Ana, Grigorean Ancuta, Trandafir Andrada, Stan Cristian
