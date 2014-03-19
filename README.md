@@ -65,3 +65,5 @@ In sfarsit Sorina Vlasceanu!
 
 * https://github.com/hmera90/Sudoku_Projet - Hannachi Chady, Khalifa Mohamed ,Lahmar Khalifa
 
+* https://github.com/bl4ckdmnds/SE-PROJECT - Slim Ben Salah , Nitu Bogdan
+
