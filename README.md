@@ -57,4 +57,4 @@ In sfarsit Sorina Vlasceanu!
 
 * https://github.com/ioanac/Futoshiki - Calinoiu, Oprisan
 
-* https://github.com/isabelap/Piston.git -Ion Alina, Puiu Isabela
+* https://github.com/isabelap/Piston -Ion Alina, Puiu Isabela
