@@ -61,8 +61,7 @@ In sfarsit Sorina Vlasceanu!
 
 * https://github.com/ana20/SE-Hidato - Cocea Elena Ana, Grigorean Ancuta, Trandafir Andrada, Stan Cristian
 
-<<<<<<< HEAD
-* https://github.com/hmera90/Sudoku_Projet - Hannachi Chady, Khalifa Mohamed ,Lahmar Khalifa
-=======
 * https://github.com/smihailescu/traffic_simulator - Gheorghiu Ion Alexandru, Mihailescu Sabina, Neacsu Alexandra, Urzicaru Cristina
->>>>>>> 0a40144d4f14f66029666d43e2e1dfea25d78f84
+
+* https://github.com/hmera90/Sudoku_Projet - Hannachi Chady, Khalifa Mohamed ,Lahmar Khalifa
+
