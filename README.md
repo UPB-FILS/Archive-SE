@@ -70,3 +70,5 @@ In sfarsit Sorina Vlasceanu!
 * https://github.com/anaadechirila/Proiect-SE -Bârnea Eliza, Chirila Ana, Bratescu Alina
 
 * https://github.com/Xwalid/kakuro - Mabrouk Mohamed Walid 
+
+* https://github.com/nader1993/Devoir/tree/master/nader%20krouna   - krouna nader , phanzu laurent, nakkach zied, Dridi mohamed zied
