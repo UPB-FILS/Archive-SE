@@ -67,3 +67,4 @@ In sfarsit Sorina Vlasceanu!
 
 * https://github.com/bl4ckdmnds/SE-PROJECT - Slim Ben Salah , Nitu Bogdan
 
+*https://github.com/anaadechirila/Proiect-SE -Bârnea Eliza, Chirila Ana, Bratescu Alina
