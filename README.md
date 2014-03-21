@@ -44,6 +44,12 @@ Hellew Roxana Postelnicu!
 
 In sfarsit Sorina Vlasceanu!
 
+Hello , Procaru Andrei!
+
+Hello , Onete Bogdan !
+
+Hello , Manai Saif !
+
 
 ### Liens pour les devoirs
 
