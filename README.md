@@ -5,9 +5,9 @@
 - (2-3) Simulateur de traffic urbain (voitures)
 - (2-3) Simulateur de traffic aéroportuaire (circulation des avions au sol)
 - (2-3) Machine de Turing a plusieurs bandes et piles
-- (2-3) Algorithmes de cryptage avec un client pour décryptage (force brute)
-- (2) Labyrinthe avec fils d'execution
-- (2) Webservices Router
+- (2-3) Algorithmes de cryptage avec un client pour décryptage (force brute). Les algorithmes: Caesar, Affine, Scytale, Solitaire, Atbash, VIC, Tabula recta, Vigenère, Two-Square 
+- (2) Generation et resolution d'un labyrinthe avec fils d'execution
+- (2) Services Registrat and Router with web interface
 - (3) Couch Query Server  
   - Voir le code sur: [https://github.com/mikeal/couchdb-pythonviews], [http://mikeal.github.com/couchdb-pythonviews]
 - (2-3) Termination detection for diffusing computation  
