@@ -35,11 +35,11 @@ Voir la documentation sur: [https://fr.wikipedia.org/wiki/Paxos_(informatique)],
 
 # Definition Of Done
 Les devoirs vont etre prises en compte seulement si vous remplisez toutes les conditions suivantes:  
-- :white_check_mark: Le code est sur github
-- :white_check_mark: Le code corresponds aux Issues
-- :white_check_mark: Le fichier Readme.MD est present dans votre repertoire sur github
-- :white_check_mark: Le Wiki est complete (la documentation)
-- :white_check_mark: Le code peut-etre teste sur codeenv
+:white_check_mark: Le code est sur github  
+:white_check_mark: Le code corresponds aux Issues  
+:white_check_mark: Le fichier Readme.MD est present dans votre repertoire sur github  
+:white_check_mark: Le Wiki est complete (la documentation)  
+:white_check_mark: Le code peut-etre teste sur codeenv  
 
 Attention - travailez en equipe! 
 
