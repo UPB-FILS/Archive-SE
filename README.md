@@ -41,5 +41,5 @@ Les devoirs vont etre prises en compte seulement si vous remplisez toutes les co
 :white_check_mark: Le Wiki est complete (la documentation)  
 :white_check_mark: Le code peut-etre teste sur codeenv  
 
-Attention - travailez en equipe! 
+Attention - travaillez en equipe! Minimum 2 etudiants et maximum 5 etudiants per equipe.
 
