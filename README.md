@@ -43,3 +43,52 @@ Les devoirs vont etre prises en compte seulement si vous remplisez toutes les co
 
 Attention - travaillez en equipe! Minimum 2 etudiants et maximum 5 etudiants per equipe.
 
+Livres a etudier - en Anglais
+====
+
+http://stst.elia.pub.ro/news/SO/Modern%20Operating%20System%20-%20Tanenbaum.pdf
+
+http://coltech.vnu.edu.vn/httt/media/sach/nlhdh/TanenbaumModernOperatingSystems.pdf
+
+http://infoman.teikav.edu.gr/~stpapad/ModernOperatingSystems3ndEdition.pdf
+
+http://iit.qau.edu.pk/books/OS_8th_Edition.pdf
+
+https://gustavus.edu/mcs/max/os-book/
+
+http://pages.cs.wisc.edu/~remzi/OSTEP/
+
+http://www.greenteapress.com/thinkos/index.html
+
+http://www.greenteapress.com/thinkos/thinkos.pdf
+
+https://gustavus.edu/mcs/max/os-book/osm-rev1.2.1.pdf
+
+
+Livres en Francais
+====
+
+http://python.developpez.com/livres/ :+1:
+
+http://inforef.be/swi/download/apprendre_python3_5.pdf
+
+https://user.oc-static.com/ftp/livre/python/apprenez_a_programmer_en_python.pdf
+
+http://heights-book.blogspot.ro/2015/10/apprenez-a-programmer-en-python.html
+
+Design Patterns
+====
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+
+https://en.wikipedia.org/wiki/Software_design_pattern
+
+https://sourcemaking.com/design_patterns
+
+http://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm
+
+http://www.oodesign.com/
+
+
+
+
