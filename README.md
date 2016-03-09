@@ -90,5 +90,26 @@ http://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm
 http://www.oodesign.com/
 
 
+SdE - Code source
+====
+Vous pouvez lire le code, comprendre la logique de systeme et meme creer votre propre version:
+* https://github.com/torvalds/linux
+* https://github.com/RIOT-OS/RIOT
+* https://github.com/CelinaRTOS/Celina
+* https://github.com/DuinOS/FreeRTOS
+* https://github.com/ucxpresso/nano51822
+* https://github.com/android et https://source.android.com/source/downloading.html ---) https://android.googlesource.com/platform 
+* https://github.com/minix3/minix
+* https://sourceforge.net/p/freedos/svn/
+* http://www.freeos.com/Compare --- une liste de SdE.
+* http://riscos.com/ --- ARM, ACORN
+* https://www.reactos.org/
+
+Virtualisation
+----
+* https://www.virtualbox.org/wiki/Downloads
+* http://osv.io/
+* https://www.docker.com/
+* https://coreos.com/
 
 
