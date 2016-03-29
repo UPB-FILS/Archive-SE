@@ -1,7 +1,7 @@
 Repository ALF & SdE
 ====
 
-Grupa: ????
+Grupa: 1220F
 
 | Nume Prenume | Repository ALF | Repository SE | 
 |--------------|----------------|---------------|
@@ -29,7 +29,7 @@ Grupa: ????
 |Varasteanu Marius|https://github.com/wreckerr/ALF|https://github.com/wreckerr/SDE|
 |Ndeme Fabrice|https://github.com/fabricelepapi||
 
-Grupa: ????
+Grupa: 1221F
 
 | Nume Prenume | Repository ALF | Repository SE | 
 |--------------|----------------|---------------|
