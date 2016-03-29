@@ -37,7 +37,12 @@ Grupa: ????
 Repository mini Proiecte TD SdE
 =====
 
-| Nume Prenume | Titlu mini proiect | Repository SE | 
-|--------------|--------------------|---------------|
-|<ol><li>Student 1</li><li>Student 2</li></ol> | [a-z] | Link github|
+| Nume Prenume | Titlu mini proiect | Repository Github | 
+|--------------|--------------------|-------------------|
+|<ol><li>Hau Roxana</li><li>Tila Simona </li><li>Balhis Christelle </li><li>Susanu Marius</li><li>Korked Bechir</li></ol> | Caesar . Algorithmes de cryptage  | |
+|<ol><li>Duta Crina</li><li>Ionita Adrian</li><li>Brezoaie Robert</li><li>Danu Cosmin</li></ol>| Sudoku/Generateur de numbres aleatoires en utilisant services web ??? | |
+|<ol><li>Bratu Madalina</li><li>Ovejan Anamaria</li><li>Albu Dragos</li><li>Ursachi Tudor</li></ol> |Generation et resolution d'un labyrinthe avec fils d'execution||
+|<ol><li>Grigorescu Ioana</li><li>Avram Andrei</li><li>Varasteanu Marius</li></ol>|Hidato ???||
+|<ol><li>Tudor Georgiana</li><li>Ilie Iulia</li><li>Tudor Adelina</li><li>Mitrica Gina</li><li>Guran Carmen</li></ol>|Facebook like counter||
+|<ol><li>Radulescu Alexandra</li><li>Colea Alexandra</li><li>Baciu Alina</li><li>Yousfi Amine</li></ol>|Generateur de numbres aleatoires en utilisant services web ???||
 
