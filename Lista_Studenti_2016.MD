@@ -33,6 +33,24 @@ Grupa: 1221F
 
 | Nume Prenume | Repository ALF | Repository SE | 
 |--------------|----------------|---------------|
+|1)Artin Cora Maria| http://github.com/CoraMaria||
+|2)Aldes Ana-Maria| http://github.com/anamaria26||
+|3)Chebbi Wael| http://github.com/wael-chebbi||
+|4)Cioiu Ioana Dumitrina| http://github.com/ioanacioiu30||
+|5)Dumitrache Cristian| http://github.com/CristiDumitrache||
+|6)Dumitrescu Daniel| http://github.com/dumitrescudaniel||
+|7)Dumitru Robert| http://github.com/DumitruRobert||
+|8)Fainaru Ioana Gabriela| http://github.com/IoanaFainaru25||
+|9)Filip Alexandra| http://github.com/Alexamariafilip||
+|10) Guran Carmen| http://github.com/GuranCarmen||
+|11)Ignat Mihai| http://github.com/IgnatMihai||
+|12) Jugarean Carmen| http://github.com/CarmenJugarean95||
+|13)Lazar Adrian| http://github.com/AdrianLazar95||
+|14)Mitrica Gina Maria| http://github.com/MitricaGina||
+|15)Nanu Maria| http://github.com/mariairina||
+|16)Popovici Fabian| http://github.com/fabianpopovici||
+|17) Tebibi Fatma	| http://github.com/fatmatebibi||
+|18) Tudor Adelina- 1241f| http://github.com/AdelinaTudor||
 
 Repository mini Proiecte TD SdE
 =====
