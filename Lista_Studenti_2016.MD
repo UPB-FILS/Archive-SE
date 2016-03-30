@@ -69,3 +69,4 @@ Repository mini Proiecte TD SdE
 |<ol><li>Dumitru Robert</li><li> Lazar Adrian</li></ol>|Simulateur de trafic urbain||
 |<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li></ol>|Sudoku ???||
 |<ol><li>Popovici Fabian</li><li>Chebbi Wael</li><li>Tebibi Fatma</li></ol>|Facebook like counter ???||
+|<ol><li>Artin Cora</li><li>Dumitrache Cristian</li></ol>|Enigma avec fils d'execution||
