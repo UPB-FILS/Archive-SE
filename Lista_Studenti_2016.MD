@@ -37,7 +37,7 @@ Grupa: 1221F
 |2)Aldes Ana-Maria| http://github.com/anamaria26||
 |3)Chebbi Wael| http://github.com/wael-chebbi||
 |4)Cioiu Ioana Dumitrina| http://github.com/ioanacioiu30||
-|5)Dumitrache Cristian| http://github.com/CristiDumitrache||
+|5)Dumitrache Cristian| http://github.com/CristiDumitrache/ALF|http://github.com/CristiDumitrache/SE||
 |6)Dumitrescu Daniel| http://github.com/dumitrescudaniel||
 |7)Dumitru Robert| http://github.com/DumitruRobert||
 |8)Fainaru Ioana Gabriela| http://github.com/IoanaFainaru25||
