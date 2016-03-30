@@ -48,7 +48,7 @@ Grupa: 1221F
 |13)Lazar Adrian| http://github.com/AdrianLazar95||
 |14)Mitrica Gina Maria| http://github.com/MitricaGina||
 |15)Nanu Maria| http://github.com/mariairina||
-|16)Popovici Fabian| http://github.com/fabianpopovici||
+|16)Popovici Fabian| https://github.com/fabianpopovici/ALF||https://github.com/fabianpopovici/SdE
 |17) Tebibi Fatma	| http://github.com/fatmatebibi||
 |18) Tudor Adelina- 1241f| http://github.com/AdelinaTudor||
 
