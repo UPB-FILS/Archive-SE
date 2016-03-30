@@ -22,7 +22,7 @@ Grupa: 1220F
 |Korked Bechir|https://github.com/bechirko||
 |Ovejan Anamaria|https://github.com/margaretove||
 |Alexandra Radulescu|https://github.com/AlexandraRadulescu/SE||
-|Susanu Marius |https://github.com/susanu||
+|Susanu Marius |https://github.com/susanu/ALF|https://github.com/susanu/SE|
 |Tila Simona|https://github.com/simonatila/ALF|https://github.com/simonatila/SE|
 |Tudor Georgiana|https://github.com/tudorgabriela/ALF|https://github.com/tudorgabriela/SE|
 |Ursachi Tudor|https://github.com/kylecrane||
