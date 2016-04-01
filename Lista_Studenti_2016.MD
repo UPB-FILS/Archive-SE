@@ -17,7 +17,7 @@ Grupa: 1220F
 |Grigorescu Ioana|https://github.com/IoanaGrigorescu/ALF|https://github.com/IoanaGrigorescu/SE|
 |Hau Roxana|https://github.com/roxellena/ALF|https://github.com/roxellena/SE|
 |Ilie Iulia|https://github.com/iuliaelena||
-|Ionita Adrian|https://github.com/ionitaadrian||
+|Ionita Adrian|https://github.com/AdrianIonita/ALF|https://github.com/AdrianIonita/SE|
 |Ivan Grigore |http://github.com/gregoireAI/alf|http://github.com/gregoireAI/se|
 |Korked Bechir|https://github.com/bechirko||
 |Ovejan Anamaria|https://github.com/margaretove||
