@@ -62,6 +62,8 @@ http://www.greenteapress.com/thinkos/index.html
 
 http://www.greenteapress.com/thinkos/thinkos.pdf
 
+http://www.ucs.cam.ac.uk/docs/course-notes/unix-courses/archived/archived-python-courses/PythonOS/pythonos.pdf
+
 https://gustavus.edu/mcs/max/os-book/osm-rev1.2.1.pdf
 
 
@@ -75,6 +77,7 @@ http://inforef.be/swi/download/apprendre_python3_5.pdf
 https://user.oc-static.com/ftp/livre/python/apprenez_a_programmer_en_python.pdf
 
 http://heights-book.blogspot.ro/2015/10/apprenez-a-programmer-en-python.html
+
 
 Design Patterns
 ====
@@ -104,6 +107,10 @@ Vous pouvez lire le code, comprendre la logique de systeme et meme creer votre p
 * http://www.freeos.com/Compare --- une liste de SdE.
 * http://riscos.com/ --- ARM, ACORN
 * https://www.reactos.org/
+* http://wiki.osdev.org/Main_Page - le site de depart pour le developeur -
+* http://doc.cat-v.org/plan_9/ - OS pour la recherche -
+* https://github.com/vhpanisa/pythonix
+
 
 Virtualisation
 ----
