@@ -42,7 +42,7 @@ Grupa: 1221F
 |7)Dumitru Robert| http://github.com/DumitruRobert||
 |8)Fainaru Ioana Gabriela| https://github.com/IoanaFainaru25/ALF|https://github.com/IoanaFainaru25/SE|
 |9)Filip Alexandra| http://github.com/Alexamariafilip/ALF|https://github.com/Alexamariafilip/SE|
-|10) Guran Carmen| http://github.com/GuranCarmen||
+|10) Guran Carmen|https://github.com/GuranCarmen/ALF|https://github.com/GuranCarmen/SE|
 |11)Ignat Mihai| http://github.com/IgnatMihai||
 |12) Jugarean Carmen| http://github.com/CarmenJugarean95||
 |13)Lazar Adrian| http://github.com/AdrianLazar95||
