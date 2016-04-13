@@ -54,8 +54,6 @@ http://infoman.teikav.edu.gr/~stpapad/ModernOperatingSystems3ndEdition.pdf
 
 http://iit.qau.edu.pk/books/OS_8th_Edition.pdf
 
-https://gustavus.edu/mcs/max/os-book/
-
 http://pages.cs.wisc.edu/~remzi/OSTEP/
 
 http://www.greenteapress.com/thinkos/index.html
@@ -65,6 +63,13 @@ http://www.greenteapress.com/thinkos/thinkos.pdf
 http://www.ucs.cam.ac.uk/docs/course-notes/unix-courses/archived/archived-python-courses/PythonOS/pythonos.pdf
 
 https://gustavus.edu/mcs/max/os-book/osm-rev1.2.1.pdf
+
+http://www.freebookcentre.net/CompuScience/Free-Operating-Systems-Books-Download.html
+
+http://www.ethoberon.ethz.ch/WirthPubl/ProjectOberon.pdf
+
+ftp://ftp.cs.uky.edu/cs/manuscripts/vade.mecum.2.pdf
+
 
 
 Livres en Francais
