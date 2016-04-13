@@ -47,7 +47,7 @@ Grupa: 1221F
 |12) Jugarean Carmen| http://github.com/CarmenJugarean95||
 |13)Lazar Adrian| http://github.com/AdrianLazar95||
 |14)Mitrica Gina Maria| https://github.com/MitricaGina/ALF|https://github.com/MitricaGina/SE|
-|15)Nanu Maria| http://github.com/mariairina||
+|15)Nanu Maria| https://github.com/mariairina/ALF|https://github.com/mariairina/SE|
 |16)Popovici Fabian| https://github.com/fabianpopovici/ALF|https://github.com/fabianpopovici/SdE|
 |17) Tebibi Fatma	| http://github.com/fatmatebibi||
 |18) Tudor Adelina- 1241f| http://github.com/AdelinaTudor||
