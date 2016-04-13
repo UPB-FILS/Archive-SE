@@ -35,7 +35,7 @@ Grupa: 1221F
 |--------------|----------------|---------------|
 |1)Artin Cora Maria|http://github.com/CoraMaria/ALF|http://github.com/CoraMaria/SE|
 |2)Aldes Ana-Maria| https://github.com/anamaria26/alf|https://github.com/anamaria26/S.E|
-|3)Chebbi Wael| http://github.com/wael-chebbi||
+|3)Chebbi Wael| http://github.com/wael-chebbi/ALF|http://github.com/wael-chebbi/SE|
 |4)Cioiu Ioana Dumitrina| https://github.com/ioanacioiu30/ALF|https://github.com/ioanacioiu30/SdE|
 |5)Dumitrache Cristian| http://github.com/CristiDumitrache||
 |6)Dumitrescu Daniel| http://github.com/dumitrescudaniel||
