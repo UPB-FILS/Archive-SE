@@ -34,7 +34,7 @@ Grupa: 1221F
 | Nume Prenume | Repository ALF | Repository SE | 
 |--------------|----------------|---------------|
 |1)Artin Cora Maria|http://github.com/CoraMaria/ALF|http://github.com/CoraMaria/SE|
-|2)Aldes Ana-Maria| http://github.com/anamaria26||
+|2)Aldes Ana-Maria| https://github.com/anamaria26/alf|https://github.com/anamaria26/S.E|
 |3)Chebbi Wael| http://github.com/wael-chebbi||
 |4)Cioiu Ioana Dumitrina| https://github.com/ioanacioiu30/ALF|https://github.com/ioanacioiu30/SdE|
 |5)Dumitrache Cristian| http://github.com/CristiDumitrache||
