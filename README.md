@@ -125,3 +125,4 @@ Virtualisation
 * https://coreos.com/
 
 
+:no_mouth: Pour vous amuser: https://github.com/android/platform_dalvik/blob/kitkat-cts-release/vm/compiler/Compiler.cpp [lignes 494-530, et 514 en particulier]
