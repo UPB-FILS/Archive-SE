@@ -68,9 +68,5 @@ Repository mini Proiecte TD SdE
 |<ol><li>Aldes Ana-Maria</li><li>Filip Alexandra</li><li>Nanu Maria</li></ol>|Paxos - simulation avec processus|https://github.com/filipalexamaria/Paxos|
 |<ol><li>Dumitru Robert</li><li> Lazar Adrian</li></ol>|Simulateur de trafic urbain||
 |<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li></ol>|Sudoku ???||
-<<<<<<< HEAD
-|<ol><li>Popovici Fabian</li><li>Chebbi Wael</li><li>Tebibi Fatma</li></ol>|Facebook like counter ???||
-|<ol><li>Artin Cora</li><li>Dumitrache Cristian</li></ol>|Enigma avec fils d'execution|https://github.com/CristiDumitrache/MiniProjet|
-=======
 |<ol><li>Popovici Fabian</li><li>Chebbi Wael</li><li>Tebibi Fatma</li></ol>|Webcrawler avec fils d'execution|https://github.com/fabianpopovici/Miniprojet---WebCrawler|
->>>>>>> master
+|<ol><li>Artin Cora</li><li>Dumitrache Cristian</li></ol>|Enigma avec fils d'execution|https://github.com/CristiDumitrache/MiniProjet|
