@@ -35,11 +35,11 @@ Voir la documentation sur: [https://fr.wikipedia.org/wiki/Paxos_(informatique)],
 
 # Definition Of Done
 Les devoirs vont etre prises en compte seulement si vous remplisez toutes les conditions suivantes:  
-:white_check_mark: Le code est sur https://github.com  
-:white_check_mark: Le code corresponds aux **Issues**  
-:white_check_mark: Le fichier `Readme.MD` est present dans votre repertoire sur github  
-:white_check_mark: Le `Wiki` est complete (la documentation)  
-:white_check_mark: Le code peut-etre teste sur https://codeenv.com
+:white_check_mark: Le code est sur github  
+:white_check_mark: Le code corresponds aux Issues  
+:white_check_mark: Le fichier Readme.MD est present dans votre repertoire sur github  
+:white_check_mark: Le Wiki est complete (la documentation)  
+:white_check_mark: Le code peut-etre teste sur codeenv  
 
 Attention - travaillez en equipe! Minimum 2 etudiants et maximum 5 etudiants per equipe.
 
@@ -62,8 +62,6 @@ http://www.greenteapress.com/thinkos/index.html
 
 http://www.greenteapress.com/thinkos/thinkos.pdf
 
-http://www.ucs.cam.ac.uk/docs/course-notes/unix-courses/archived/archived-python-courses/PythonOS/pythonos.pdf
-
 https://gustavus.edu/mcs/max/os-book/osm-rev1.2.1.pdf
 
 
@@ -77,7 +75,6 @@ http://inforef.be/swi/download/apprendre_python3_5.pdf
 https://user.oc-static.com/ftp/livre/python/apprenez_a_programmer_en_python.pdf
 
 http://heights-book.blogspot.ro/2015/10/apprenez-a-programmer-en-python.html
-
 
 Design Patterns
 ====
@@ -107,10 +104,6 @@ Vous pouvez lire le code, comprendre la logique de systeme et meme creer votre p
 * http://www.freeos.com/Compare --- une liste de SdE.
 * http://riscos.com/ --- ARM, ACORN
 * https://www.reactos.org/
-* http://wiki.osdev.org/Main_Page - le site de depart pour le developeur -
-* http://doc.cat-v.org/plan_9/ - OS pour la recherche -
-* https://github.com/vhpanisa/pythonix
-
 
 Virtualisation
 ----

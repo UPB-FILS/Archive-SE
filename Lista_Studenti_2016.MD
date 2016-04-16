@@ -37,7 +37,7 @@ Grupa: 1221F
 |2)Aldes Ana-Maria| https://github.com/anamaria26/alf|https://github.com/anamaria26/S.E|
 |3)Chebbi Wael| http://github.com/wael-chebbi/ALF|http://github.com/wael-chebbi/SE|
 |4)Cioiu Ioana Dumitrina| https://github.com/ioanacioiu30/ALF|https://github.com/ioanacioiu30/SdE|
-|5)Dumitrache Cristian| http://github.com/CristiDumitrache||
+|5)Dumitrache Cristian| http://github.com/CristiDumitrache/ALF|http://github.com/CristiDumitrache/SE|
 |6)Dumitrescu Daniel| http://github.com/dumitrescudaniel||
 |7)Dumitru Robert| http://github.com/DumitruRobert||
 |8)Fainaru Ioana Gabriela| https://github.com/IoanaFainaru25/ALF|https://github.com/IoanaFainaru25/SE|
@@ -68,4 +68,9 @@ Repository mini Proiecte TD SdE
 |<ol><li>Aldes Ana-Maria</li><li>Filip Alexandra</li><li>Nanu Maria</li></ol>|Paxos - simulation avec processus|https://github.com/filipalexamaria/Paxos|
 |<ol><li>Dumitru Robert</li><li> Lazar Adrian</li></ol>|Simulateur de trafic urbain||
 |<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li></ol>|Sudoku ???||
+<<<<<<< HEAD
+|<ol><li>Popovici Fabian</li><li>Chebbi Wael</li><li>Tebibi Fatma</li></ol>|Facebook like counter ???||
+|<ol><li>Artin Cora</li><li>Dumitrache Cristian</li></ol>|Enigma avec fils d'execution|https://github.com/CristiDumitrache/MiniProjet|
+=======
 |<ol><li>Popovici Fabian</li><li>Chebbi Wael</li><li>Tebibi Fatma</li></ol>|Webcrawler avec fils d'execution|https://github.com/fabianpopovici/Miniprojet---WebCrawler|
+>>>>>>> master
