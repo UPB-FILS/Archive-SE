@@ -104,6 +104,8 @@ Vous pouvez lire le code, comprendre la logique de systeme et meme creer votre p
 * http://www.freeos.com/Compare --- une liste de SdE.
 * http://riscos.com/ --- ARM, ACORN
 * https://www.reactos.org/
+* http://maemo.org/intro/
+* http://www.openwebosproject.org/ --> http://enyojs.com/
 
 Virtualisation
 ----
