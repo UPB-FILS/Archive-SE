@@ -20,7 +20,7 @@ Grupa: 1220F
 |Ionita Adrian|https://github.com/AdrianIonita/ALF|https://github.com/AdrianIonita/SE|
 |Ivan Grigore |http://github.com/gregoireAI/alf|http://github.com/gregoireAI/se|
 |Korked Bechir|https://github.com/bechirko||
-|Ovejan Anamaria|https://github.com/margaretove||
+|Ovejan Anamaria|https://github.com/margaretove/SE|https://github.com/margaretove/ALF|
 |Alexandra Radulescu|https://github.com/AlexandraRadulescu/SE||
 |Susanu Marius |https://github.com/susanu/ALF|https://github.com/susanu/SdE|
 |Tila Simona|https://github.com/simonatila/ALF|https://github.com/simonatila/SE|
