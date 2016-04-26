@@ -67,6 +67,6 @@ Repository mini Proiecte TD SdE
 |<ol><li>Guran Carmen</li><li>Mitrica Gina Maria</li><li>Tudor Adelina</li></ol>|Machine de Turing||
 |<ol><li>Aldes Ana-Maria</li><li>Filip Alexandra</li><li>Nanu Maria</li></ol>|Paxos - simulation avec processus|https://github.com/filipalexamaria/Paxos|
 |<ol><li>Dumitru Robert</li><li> Lazar Adrian</li></ol>|Simulateur de trafic urbain||
-|<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li></ol>|Sudoku ???||
+|<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li><li>NDEME SANAMA Fabrice</li></ol>|Sudoku ???|https://github.com/fabricelepapi/SEprojet|
 |<ol><li>Popovici Fabian</li><li>Chebbi Wael</li><li>Tebibi Fatma</li></ol>|Webcrawler avec fils d'execution|https://github.com/fabianpopovici/Miniprojet---WebCrawler|
 |<ol><li>Artin Cora</li><li>Dumitrache Cristian</li></ol>|Enigma avec fils d'execution|https://github.com/CristiDumitrache/MiniProjet|
