@@ -43,7 +43,7 @@ Grupa: 1221F
 |8)Fainaru Ioana Gabriela| https://github.com/IoanaFainaru25/ALF|https://github.com/IoanaFainaru25/SE|
 |9)Filip Alexandra|https://github.com/filipalexamaria/ALF|https://github.com/filipalexamaria/SE|
 |10) Guran Carmen|https://github.com/GuranCarmen/ALF|https://github.com/GuranCarmen/SE|
-|11)Ignat Mihai| http://github.com/IgnatMihai||
+|11)Ignat Mihai|https://github.com/IgnatMihai/ALF|https://github.com/IgnatMihai/SE|
 |12) Jugarean Carmen| https://github.com/CarmenJugarean95/ALF|https://github.com/CarmenJugarean95/SE|
 |13)Lazar Adrian| http://github.com/AdrianLazar95||
 |14)Mitrica Gina Maria| https://github.com/MitricaGina/ALF|https://github.com/MitricaGina/SE|
@@ -66,6 +66,6 @@ Repository mini Proiecte TD SdE
 |<ol><li>Guran Carmen</li><li>Mitrica Gina Maria</li><li>Tudor Adelina</li></ol>|Machine de Turing||
 |<ol><li>Aldes Ana-Maria</li><li>Filip Alexandra</li><li>Nanu Maria</li></ol>|Paxos - simulation avec processus|https://github.com/filipalexamaria/Paxos|
 |<ol><li>Dumitru Robert</li><li> Lazar Adrian</li></ol>|Simulateur de trafic urbain||
-|<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li><li>NDEME SANAMA Fabrice</li></ol>|Sudoku ???|https://github.com/fabricelepapi/SEprojet|
+|<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li><li>NDEME SANAMA Fabrice</li></ol>|Sudoku |https://github.com/fabricelepapi/SEprojet|
 |<ol><li>Popovici Fabian</li><li>Chebbi Wael</li><li>Tebibi Fatma</li></ol>|Webcrawler avec fils d'execution|https://github.com/fabianpopovici/Miniprojet---WebCrawler|
 |<ol><li>Artin Cora</li><li>Dumitrache Cristian</li></ol>|Enigma avec fils d'execution|https://github.com/CristiDumitrache/MiniProjet|
