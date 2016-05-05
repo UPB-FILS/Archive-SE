@@ -51,7 +51,7 @@ Grupa: 1221F
 |15)Nanu Maria| https://github.com/mariairina/ALF|https://github.com/mariairina/SE|
 |16)Popovici Fabian| https://github.com/fabianpopovici/ALF|https://github.com/fabianpopovici/SdE|
 |17) Tebibi Fatma	| http://github.com/fatmatebibi||
-|18) Tudor Adelina- 1241f| http://github.com/AdelinaTudor||
+|18) Tudor Adelina- 1241f| | http://github.com/AdelinaTudor|
 
 Repository mini Proiecte TD SdE
 =====
