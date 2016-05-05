@@ -64,7 +64,7 @@ Repository mini Proiecte TD SdE
 |<ol><li>Tudor Georgiana</li><li>Ilie Iulia</li></ol>|Futoshiki|https://github.com/tudorgabriela/Futoshiki|
 |<ol><li>Radulescu Alexandra</li><li>Colea Alexandra</li><li>Baciu Alina</li><li>Yousfi Amine</li></ol>|Generateur de numbres aleatoires en utilisant services web | https://github.com/AlexandraColea/Miniprojet |
 |<ol><li>Cioiu Ioana Dumitrina</li><li>Fainaru Ioana Gabriela</li><li>Jugarean Carmen</li></ol>|Simulateur de trafic aéroportuaire|https://github.com/ioanacioiu30/Aeroport|
-|<ol><li>Guran Carmen</li><li>Mitrica Gina Maria</li><li>Tudor Adelina</li></ol>|Machine de Turing||
+|<ol><li>Guran Carmen</li><li>Mitrica Gina Maria</li><li>Tudor Adelina</li></ol>|Machine de Turing|https://github.com/GuranCarmen/MachinedeTuring|
 |<ol><li>Aldes Ana-Maria</li><li>Filip Alexandra</li><li>Nanu Maria</li></ol>|Paxos - simulation avec processus|https://github.com/filipalexamaria/Paxos|
 |<ol><li>Dumitru Robert</li><li> Lazar Adrian</li></ol>|Simulateur de trafic urbain||
 |<ol><li>Dumitrescu Daniel</li><li>Ignat Mihai</li><li>NDEME SANAMA Fabrice</li></ol>|Sudoku |https://github.com/fabricelepapi/SEprojet|
