@@ -21,7 +21,7 @@ Grupa: 1220F
 |Ivan Grigore |http://github.com/gregoireAI/alf|http://github.com/gregoireAI/se|
 |Korked Bechir|https://github.com/bechirko||
 |Ovejan Anamaria|https://github.com/margaretove/SE|https://github.com/margaretove/ALF|
-|Alexandra Radulescu|https://github.com/AlexandraRadulescu/SE||
+|Alexandra Radulescu|https://github.com/AlexandraRadulescu/ALF1|https://github.com/AlexandraRadulescu/SE1|
 |Susanu Marius |https://github.com/susanu/ALF|https://github.com/susanu/SdE|
 |Tila Simona|https://github.com/simonatila/ALF|https://github.com/simonatila/SE|
 |Tudor Georgiana|https://github.com/tudorgabriela/ALF|https://github.com/tudorgabriela/SE|
