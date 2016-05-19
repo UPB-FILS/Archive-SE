@@ -107,6 +107,22 @@ Vous pouvez lire le code, comprendre la logique de systeme et meme creer votre p
 * http://maemo.org/intro/
 * http://www.openwebosproject.org/ --> http://enyojs.com/
 
+Liens SdE
+====
+Vous pouvez visiter et etudier les SdE suivants:  
+* http://www.vitanuova.com/inferno/downloads.html --> https://bitbucket.org/inferno-os/inferno-os/
+* http://plan9.bell-labs.com/plan9/
+* https://reactos.org/
+* https://www.sysgo.com/
+* http://www.windriver.com/products/vxworks/
+* http://www8.hp.com/us/en/products/servers/openvms/overview.html
+* http://www.amigaos.net/
+* http://www.amigaos.net/
+* http://www.returninfinity.com/baremetal.html
+* https://www.haiku-os.org/
+* http://www.morphos-team.net/
+* http://research.microsoft.com/en-us/projects/singularity/ (Microsoft Research)
+
 Virtualisation
 ----
 * https://www.virtualbox.org/wiki/Downloads
