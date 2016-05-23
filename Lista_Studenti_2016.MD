@@ -5,7 +5,7 @@ Grupa: 1220F
 
 | Nume Prenume | Repository ALF | Repository SE | 
 |--------------|----------------|---------------|
-| Albu Dragos | https://github.com/dragosalbu | |
+| Albu Dragos | https://github.com/dragosalbu/ALF | | https://github.com/dragosalbu/SE|
 | Avram Andrei | https://github.com/andrei9505/SE | https://github.com/andrei9505/ALF |
 | Baciu Alina |https://github.com/alinabaciu||
 | Balhis Christelle|https://github.com/ChristelleBalhis/ALF||https://github.com/ChristelleBalhis/SE|
