@@ -14,8 +14,4 @@
 
 ## TD6 - L'interface graphique pour les applications classiques
 
-## TD7 - Prèsentation Micro Projets
-
-
-
-
+## TD7 - Prèsentation des Micro Projets par les étudiants
