@@ -17,11 +17,11 @@ Communication via e-mail par le biais de représentant de groupe - **1 seule per
 
 ## TD1 - Introduction en Python
 * [Codenv](https://codeenv.com)
-* GIT Hub
+* [GIT Hub](https://github.com/)
 
 ## TD2 - Threads & Processes (Fils d'éxecution et Processus)
-* Threads
-* Processes
+* [Threads](https://www.tutorialspoint.com/python/python_multithreading.htm)
+* [Processes](https://docs.python.org/2/library/multiprocessing.html)
 
 ## TD3 - Quelques _Design Patterns_
 * Client - Server
@@ -29,14 +29,15 @@ Communication via e-mail par le biais de représentant de groupe - **1 seule per
 
 ## TD4 - Les applications Web
 * Simple WebServer
-* AJAX, REST, JSON
+* [AJAX](https://fr.wikipedia.org/wiki/Ajax_(informatique)), [REST](https://fr.wikipedia.org/wiki/Representational_state_transfer), [JSON](http://json.org/), [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 ## TD5 - L'interface graphique des aplications Web
-* JavaScript
-* Bootstrap
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Bootstrap](http://getbootstrap.com/)
+* [Polymer](https://www.polymer-project.org/1.0/)
 
 ## TD6 - L'interface graphique pour les aplications classiques
-* QT
+* [QT](https://www.qt.io/)
 
 ## TD7 - Prèsentation des Micro Projets par les étudiants
 
