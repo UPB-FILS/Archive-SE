@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link href="favicon.png" rel="icon" type="image/png" />
+    <title>Galactic Wars</title>
+
+    <!-- FontAwesome -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+        crossorigin="anonymous">
+
+    <!-- Bootstrap -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/paper/bootstrap.min.css" rel="stylesheet" integrity="sha384-awusxf8AUojygHf2+joICySzB780jVvQaVCAt1clU3QsyAitLGul28Qxb2r1e5g+"
+        crossorigin="anonymous">
+
+
+    <script>
+        side = "<i class='fa fa-rebel fa-3x' aria-hidden='true'></i>";
+        //"<i class='fa fa-first-order fa-3x' aria-hidden='true'></i>"
+
+        LOCK_TABLE = false;
+        table = [0, 0, 0, 0, 0, 0, 0, 0, 0];
+
+        function sendToServer() {
+            $.ajax({
+                    method: "POST",
+                    url: "play",
+                    data: {
+                        le_tableau: JSON.stringify(table.join(''))
+                    }
+                })
+                .done(function (msg) {
+                    console.log("Data recived: " + msg);
+                    table[msg]=2;
+                    $("#" + msg).addClass("active");
+                    $("#" + msg).html("<i class='fa fa-first-order fa-3x' aria-hidden='true'></i>");
+                    LOCK_TABLE=false;
+                });
+
+        }
+
+        function checkCell(id) {
+            if (LOCK_TABLE) return;
+
+            if ($("#" + id).hasClass("active")) {
+                console.log("Cell already taken!");
+            } else {
+                $("#" + id).addClass("active");
+                $("#" + id).html(side);
+                table[id] = 1;
+                sendToServer();
+                LOCK_TABLE = true;
+            }
+        }
+
+
+    </script>
+
+</head>
+
+<body>
+    <div class="container">
+        <h1>Star Wars</h1>
+        <blockquote class="blockquote-reverse">
+            Choose your side must!
+            <footer>Master Yoda</footer>
+        </blockquote>
+        <div class="row">
+            <div class="col-md-5"></div>
+            <div class="col-md-2">
+                <table class="table table-bordered">
+                    <tbody>
+                        <tr style="text-align:center;">
+                            <td id=0 onmouseover="$('#0').addClass('warning')" onmouseout="$('#0').removeClass('warning')" onclick="checkCell(0);">
+                                <i class="fa fa-empire fa-3x" aria-hidden="true"></i>
+                            </td>
+                            <td id=1 onmouseover="$('#1').addClass('warning')" onmouseout="$('#1').removeClass('warning')" onclick="checkCell(1);">
+                                <i class="fa fa-empire fa-3x" aria-hidden="true"></i>
+                            </td>
+                            <td id=2 onmouseover="$('#2').addClass('warning')" onmouseout="$('#2').removeClass('warning')" onclick="checkCell(2);">
+                                <i class="fa fa-empire fa-3x" aria-hidden="true"></i>
+                            </td>
+                        </tr>
+                        <tr style="text-align:center;">
+                            <td id=3 onmouseover="$('#3').addClass('warning')" onmouseout="$('#3').removeClass('warning')" onclick="checkCell(3);">
+                                <i class="fa fa-empire fa-3x" aria-hidden="true"></i>
+                            </td>
+                            <td id=4 onmouseover="$('#4').addClass('warning')" onmouseout="$('#4').removeClass('warning')" onclick="checkCell(4);">
+                                <i class="fa fa-empire fa-3x" aria-hidden="true"></i>
+                            </td>
+                            <td id=5 onmouseover="$('#5').addClass('warning')" onmouseout="$('#5').removeClass('warning')" onclick="checkCell(5);">
+                                <span class="fa fa-empire fa-3x" aria-hidden="true">
+                        </td>
+                    </tr>
+                    <tr style="text-align:center;">
+                        <td id=6 onmouseover="$('#6').addClass('warning')" onmouseout="$('#6').removeClass('warning')"  onclick="checkCell(6);">
+                            <span class="fa fa-empire fa-3x" aria-hidden="true"></span>
+                            </td>
+                            <td id=7 onmouseover="$('#7').addClass('warning')" onmouseout="$('#7').removeClass('warning')" onclick="checkCell(7);">
+                                <i class="fa fa-empire fa-3x" aria-hidden="true"></i>
+                            </td>
+                            <td id=8 onmouseover="$('#8').addClass('warning')" onmouseout="$('#8').removeClass('warning')" onclick="checkCell(8);">
+                                <i class="fa fa-empire fa-3x" aria-hidden="true"></i>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="col-md-5"></div>
+        </div>
+        <!-- container -->
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+            crossorigin="anonymous"></script>
+</body>
+
+</html>

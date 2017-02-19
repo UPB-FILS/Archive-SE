@@ -1,13 +1,12 @@
 #!/usr/bin/python
-from BaseHTTPServer import BaseHTTPRequestHandler,HTTPServer
+from BaseHTTPServer import BaseHTTPRequestHandler, HTTPServer
 from os import curdir, sep
 import cgi
 import Queue
 
-PORT_NUMBER = 80
+PORT_NUMBER = 8000
 
-#This class will handles any incoming request from
-#the browser 
+#This class will handles any incoming request from the browser 
 class myHandler(BaseHTTPRequestHandler):
 
 	def __init__(self, nsa_queue, *args):
@@ -20,8 +19,7 @@ class myHandler(BaseHTTPRequestHandler):
 			self.path="/index.html"
 
 		try:
-			#Check the file extension required and
-			#set the right mime type
+			#Check the file extension required and set the right mime type
 
 			sendReply = False
 			if self.path.endswith(".html"):
@@ -84,8 +82,7 @@ try:
 	def handler(*args):
 		myHandler(nsa_queue, *args)
 	
-	#Create a web server and define the handler to manage the
-	#incoming request
+	#Create a web server and define the handler to manage the incoming request
 	server = HTTPServer(('', PORT_NUMBER), handler)
 	print 'Started httpserver on port ' , PORT_NUMBER
 	#Wait forever for incoming http requests

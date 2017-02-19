@@ -79,7 +79,7 @@ def utilisation():
           """
 
 def main(argv=None):
-    working_dir = os.path.dirname(os.path.abspath(__file__)) + "\\"
+    working_dir = os.path.dirname(os.path.abspath(__file__)) + os.path.sep
     #Configurez le logging pour ecrire dans un fichier texte
     logging.basicConfig(format='%(asctime)s %(levelname)s %(message)s',
                         filename = working_dir + 'pc.log',
