@@ -26,6 +26,7 @@ Communication via e-mail par le biais de représentant de groupe - **1 seule per
 ## TD3 - Quelques _Design Patterns_
 * Client - Server
 * Producer - Consumer
+* [Une liste avec exemples](https://github.com/faif/python-patterns)
 
 ## TD4 - Les applications Web
 * Simple WebServer
