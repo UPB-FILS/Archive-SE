@@ -6,8 +6,8 @@ _Présentation - votre interlocuteru pour les TDs: Dragoş STOICA_
 ====
 
 # Organisation de TD et de la communication
-Pour le TD vous allez obtenir une note qui représente une partie de la note finale - voir en cours avec M. Dimo. 
-Pour le TD: 10% sur la présence et 90% sur les devoirs. 
+Pour les TDs vous allez obtenir une note qui représente une partie de la note finale - voir en cours avec M. Dimo. 
+Pour la note concernant la partie TD: 10% de la note est sur la présence et 90% sur les devoirs. 
 Communication via e-mail par le biais de représentant de groupe  
 :zap: **1 seule personne de contact** :zap:.
 
@@ -17,14 +17,14 @@ Communication via e-mail par le biais de représentant de groupe
 # Sujets TD
 
 ## TD1 - Introduction en Python
-* [Codenv](https://codeenv.com)
+* Interpreteur - ligne commande ou [IDLE](https://docs.python.org/2/library/idle.html) 
 * [GIT Hub](https://github.com/)
 
-## TD2 - Threads & Processes (Fils d'éxecution et Processus)
-* [Threads](https://www.tutorialspoint.com/python/python_multithreading.htm)
-* [Processes](https://docs.python.org/2/library/multiprocessing.html)
+## TD2 - Fils d'éxecution et Processus (Threads & Processes)
+* [Fils d'éxecution](https://www.tutorialspoint.com/python/python_multithreading.htm)
+* [Processus](https://docs.python.org/2/library/multiprocessing.html)
 
-## TD3 - Quelques _Design Patterns_
+## TD3 - Quelques Patrons de Conception (Design Patterns)
 * Client - Server
 * Producer - Consumer
 * Thread Pool
@@ -32,7 +32,7 @@ Communication via e-mail par le biais de représentant de groupe
 * [Une liste avec exemples](https://github.com/faif/python-patterns)
 
 ## TD4 - Les applications Web
-* Simple WebServer
+* La classe _Simple WebServer_
 * [AJAX](https://fr.wikipedia.org/wiki/Ajax_(informatique)), [REST](https://fr.wikipedia.org/wiki/Representational_state_transfer), [JSON](http://json.org/), [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 
 ## TD5 - L'interface graphique des aplications Web
