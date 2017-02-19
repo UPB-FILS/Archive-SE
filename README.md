@@ -8,8 +8,8 @@ _Présentation - votre interlocuteru pour les TDs: Dragoş STOICA_
 # Organisation de TD et de la communication
 Pour le TD vous allez obtenir une note qui représente une partie de la note finale - voir en cours avec M. Dimo. 
 Pour le TD: 10% sur la présence et 90% sur les devoirs. 
-Communication via e-mail par le biais de représentant de groupe 
-**1 seule personne de contact**.
+Communication via e-mail par le biais de représentant de groupe  
+:zap: **1 seule personne de contact** :zap:.
 
 ====
 
