@@ -38,7 +38,6 @@ Communication via e-mail par le biais de représentant de groupe
 ## TD5 - L'interface graphique des aplications Web
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Bootstrap](http://getbootstrap.com/)
-* [Polymer](https://www.polymer-project.org/1.0/)
 
 ## TD6 - L'interface graphique pour les aplications classiques
 * [QT](https://www.qt.io/)
