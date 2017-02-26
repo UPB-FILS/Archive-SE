@@ -20,6 +20,8 @@ Communication via e-mail par le biais de représentant de groupe
 * Interpreteur - ligne commande ou [IDLE](https://docs.python.org/2/library/idle.html) 
 * [GIT Hub](https://github.com/)
 
+Devoir :link: #60
+
 ## TD2 - Fils d'éxecution et Processus (Threads & Processes)
 * [Fils d'éxecution](https://www.tutorialspoint.com/python/python_multithreading.htm)
 * [Processus](https://docs.python.org/2/library/multiprocessing.html)
