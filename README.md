@@ -58,5 +58,10 @@ Communication via e-mail par le biais de représentant de groupe
 [Devoir 7](https://github.com/UPB-FILS/SE/issues/66) - la date limite 19.05.2017, 23.05.2017, 25.05.2017
 
 
+<hr/>
 
+:construction: Liens vers les repository des étudiants: [Devoirs - TD](https://github.com/1Bogdan96/Se-2017/blob/master/Lista_studenti.md)
 
+:rowboat: Liens vest les repository les [Micro ~~projets~~ travaux](https://github.com/1Bogdan96/Se-2017/blob/master/micro_proj.md)
+
+:orange_book: Lien vers la liste de [PROJETS](https://github.com/1Bogdan96/Se-2017/blob/master/PROIECT.md)
